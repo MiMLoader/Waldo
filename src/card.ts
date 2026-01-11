@@ -1,4 +1,4 @@
-import type { CardJson } from "../types.d.ts";
+import type { CardJson } from "../types/card";
 
 export class Card {
   type: "card" = "card";
